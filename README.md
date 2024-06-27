@@ -10,9 +10,12 @@
 ## 开发者
 * **[`AEBC08`](https://github.com/AEBC08)**
 
-### 引用本项目示例
+### Example of Project Reference(引用本项目示例)
 **本项目支持被直接引用并调用函数启动 Minecraft  
-以下是调用示例：**
+以下是调用示例：**  
+**This project supports being directly referenced and then calling functions to launch Minecraft.  
+Please note that all the comments in the code are in Chinese; you may choose to use a translator to translate them into Chinese.  
+Here is a demonstration call:**
 
 ```C#
 using IMCLK;
