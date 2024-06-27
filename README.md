@@ -17,7 +17,7 @@
 ```C#
 using IMCLK;
 
-Kernrl.LaunchMinecraft("Your Java path", "Your .minecraft dir path", "Minecraft version name", 1024, "Player name");
+Kernrl.LaunchMinecraft("Your Java path", "Your .minecraft dir path", "Minecraft version name", 1024, "Player name", OutJvmParams: true);
 ```
 
 ## Features(特性)
