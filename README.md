@@ -7,5 +7,18 @@
 **If you want to learn more, please go [_`AEBC08/IMCLK`_](https://github.com/AEBC08/IMCLK)**  
 **This fork is not much different from the original one because their logic is basically the same**
 
+## 开发者
+* **[`AEBC08`](https://github.com/AEBC08)**
+
+### 引用本项目示例
+**本项目支持被直接引用并调用函数启动 Minecraft  
+以下是调用示例：**
+
+```C#
+using IMCLK;
+
+Kernrl.LaunchMinecraft("Your Java path", "Your .minecraft dir path", "Minecraft version name", 1024, "Player name");
+```
+
 ## Features(特性)
 * **Updating in progress(正在更新中)...**
